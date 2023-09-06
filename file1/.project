@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<projectDescription>
-	<name>assigment1 calculator</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-	</buildSpec>
-	<natures>
-	</natures>
-</projectDescription>
+<!DOCTYPE html>
+<html>
+ 
+<head>
+    <title>
+        First Web Page
+    </title>
+</head>
+ 
+<body>
+    Hello World!
+</body>
+ 
+</html>
